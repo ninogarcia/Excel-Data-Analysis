@@ -1,4 +1,4 @@
-# Metropolitan Commuting Analysis
+# Metropolitan Commuting Analysis With EXCEL
 
 ## Hypothesis: There is a significant relationship between gender, impact of traffic, and job satisfaction. Specifically, being female and experiencing higher levels of traffic impact are associated with lower job satisfaction.
 
@@ -32,3 +32,32 @@ The data for this study was collected using Google Forms, with respondents provi
 2. **No Personal Identifiers:** The survey did not collect any personal identifiers such as addresses, phone numbers, or email addresses. All potentially identifying information was omitted to protect the privacy of respondents.
 
 Through these anonymization measures, the dataset has been effectively de-identified, allowing for the exploration of commuting patterns without compromising the confidentiality of individual respondents.
+
+## Raw Data
+
+![image](https://github.com/ninogarcia/Excel-Data-Analysis/assets/7455410/11098e2a-27ad-4a21-9f02-e42bd98675fd)
+
+
+## Data Cleaning
+During the data analysis process, it was observed that the fields of Travel Duration and Total Number of Transportations Used contained inconsistencies. To ensure the data's accuracy and coherence, a thorough data cleaning process was undertaken.
+
+### Travel Duration
+The Travel Duration field originally included various textual representations, such as "mins," "min," or "minutes." To standardize the data, these textual elements were removed, leaving only the numerical values representing travel duration in minutes. This step facilitated better analysis and comparison across the dataset.
+
+### Total Number of Transportations Used
+The Total Number of Transportations Used field presented some instances of missing or incorrect data. To address these issues, the following steps were applied:
+
+Handling Missing Data: For any missing values in the Total Number of Transportations Used field, appropriate imputation techniques were used. This ensured that missing data did not impact the integrity of the analysis.
+
+Validation and Correction: The field was thoroughly validated to identify and correct any data entry errors or inconsistencies, ensuring the accuracy and reliability of the cleaned dataset.
+
+The cleaned dataset, which includes the standardized Travel Duration and corrected Total Number of Transportations Used, can be found in the attached Excel file available in this repository. The Excel file also contains the formulas used to perform the data cleaning.
+
+Here is a snapshot of the Cleaned Data sheet:
+
+![image](https://github.com/ninogarcia/Excel-Data-Analysis/assets/7455410/339a2a86-23a2-4adf-8599-2b50624509f7)
+
+
+
+
+

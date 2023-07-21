@@ -78,6 +78,10 @@ To facilitate the visualization and interpretation of our findings, a Dashboard 
 
 The Dashboard Sheet offers an intuitive way to explore the data and gain insights into the research questions outlined above. Users can interact with the charts and filter the data based on specific criteria, enhancing the accessibility and usability of the analysis.
 
+Snapshot of the Dashboard:
+![image](https://github.com/ninogarcia/Excel-Data-Analysis/assets/7455410/e6ee2338-e989-43d0-a7a2-d0faf39543eb)
+
+
 ### Data Calculations
 
 The calculations and data manipulations used to generate the results presented in the Dashboard Sheet can be found in a separate sheet within the Excel file. This sheet contains the formulas and functions employed to perform the necessary computations for the analysis.
@@ -87,6 +91,10 @@ Researchers and data enthusiasts can refer to this separate sheet to understand 
 The Excel file with the Dashboard Sheet and Data Calculations can be accessed in this repository. Users are encouraged to explore the interactive dashboard and leverage the cleaned data for further research and analysis.
 
 
+## Contact Information
+[LinkedIn](https://www.linkedin.com/in/ninogarci/)
+&nbsp;
 
+[UpWork](https://www.upwork.com/freelancers/~01dd78612ac234aadd)
 
 
